@@ -1,6 +1,6 @@
 # CS-GO-config
 
-Last Updated 28/11/19
+Last Updated 30/03/20
 
 ## How to use
 
