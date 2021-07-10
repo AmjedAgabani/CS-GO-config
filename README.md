@@ -11,7 +11,7 @@ Put files in  C:\Program Files (x86)\Steam\userdata\#######\730\local\cfg
 
 Launch by opening console and typing `exec serv`
 
-Return config to match-ready default config by typin `exec unload` in console.
+Return config to match-ready default config by typing `exec unload` in console.
 
 #### Keybinds
 
