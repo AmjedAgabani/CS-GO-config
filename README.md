@@ -39,7 +39,7 @@ Launch by opening console and typing `exec demoview`
 | PGUP  | Fastforward (Hold to play demo at 500% speed) |
 | END | Super Fastforward (Hold to play demo at 1500% speed) |
 | HOME | Toggle demo pause (Press to pause & play demo) |
-| INS | Toggle xray (press to toggle xray) // *Note: MUST TOGGLE OF CASTER XRAY CONTROL* |
+| INS | Toggle xray (press to toggle xray) // *Note: MUST TOGGLE OFF CASTER XRAY CONTROL* |
 | UPARROW | Foward 5 seconds (on 128 tick demo) |
 | DOWNARROW | Back 5 seconds (on 128 tick demo) |
 ------------
